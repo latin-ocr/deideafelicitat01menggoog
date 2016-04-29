@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deideafelicitat01menggoog_0009.png"; bbox 0 0 3173 5096; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 936 1874 1935 1943">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 936 1874 1935 1943">
+     <span class='ocr_line' id='line_1_1' title="bbox 936 1874 1935 1943; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 936 1877 1218 1943; x_wconf 69' lang='lat' dir='ltr'><strong>AMIGO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1292 1875 1608 1942; x_wconf 81' lang='lat' dir='ltr'><strong>IOANNI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1668 1874 1935 1942; x_wconf 83' lang='lat' dir='ltr'>POGGI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1769 2157 2178 2229">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1769 2157 2178 2229">
+     <span class='ocr_line' id='line_1_2' title="bbox 1769 2157 2178 2229; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 1769 2157 1857 2228; x_wconf 82' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1927 2157 2017 2228; x_wconf 92' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2089 2157 2178 2229; x_wconf 76' lang='lat' dir='ltr'><strong>D.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
